@@ -681,8 +681,14 @@ footer span a:hover{
 }
 
 ::selection{
-    background-color: orange;
-    color: orange;
+    background-color:Blue;
+    color: Black;
 
 
 }   
+
+.responsive-img {
+    max-width:100%;
+    display:block;
+    height:auto;
+  }
